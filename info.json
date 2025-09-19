@@ -1,7 +1,7 @@
 {
-  "name": "###NAME###",
-  "title": "###TITLE###",
-  "description": "###DESCRIPTION###",
+  "name": "simple-gauge-tweaks",
+  "title": "Simple Gauge Tweaks",
+  "description": "Opinionated tweaks to Simple Gauge.",
   "author": "QuingKhaos",
   "homepage": "",
   "version": "1.0.0",
