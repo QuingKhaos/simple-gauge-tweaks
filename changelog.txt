@@ -3,3 +3,5 @@ Version: 1.0.0
 Date: ????
   Changes:
     - [item=simple-gauge] Move to circuit-input subgroup if SchallCircuitGroup is installed.
+  Features:
+    - Allow players to select the unlock technology for the simple gauge in the mod settings.
