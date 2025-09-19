@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
-Date: ????
+Date: 2025-09-19
   Changes:
     - [item=simple-gauge] Move to circuit-input subgroup if SchallCircuitGroup is installed.
   Features:
